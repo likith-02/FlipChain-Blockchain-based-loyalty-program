@@ -50,4 +50,4 @@ We welcome contributions from the community!
 
 ---
 
-Feel free to explore and contribute to the project. For any questions or assistance, please open an issue or contact us at mitulvashista123@gmail.com.
+Feel free to explore and contribute to the project. For any questions or assistance, please open an issue or contact us at likithbiyanii@gmail.com.
