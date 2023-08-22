@@ -36,7 +36,7 @@ For detailed tokenomics information, refer to the [Tokenomics](./docs/tokenomics
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/MitulVashista/FlipChain.git`
+1. Clone this repository: `git clone https://github.com/likith-02/FlipChain.git`
 2. Install dependencies: `npm install`
 
 ## Usage
